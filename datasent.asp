@@ -3,9 +3,9 @@
 	'<configuration>
 	dim emailAdress
 	dim experimentCode
-	emailAdress = "garaizar@deusto.es"
-	experimentCode ="LIBET-001 - WEB"
-	domain = "deusto.es"
+	emailAdress = "arender@web.de"
+	experimentCode ="soa"
+	domain = "web.de"
 	'</configuration>
 
 	'program variables
