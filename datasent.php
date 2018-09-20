@@ -2,10 +2,10 @@
 	//data to be filled
 	//<configuration>
 	$fromEmailAdress = "server@labpsico.com";
-	$toEmailAdress = "garaizar@deusto.es";
-	$experimentCode = "LIBET-001 - WEB";
+	$toEmailAdress = "arender@web.de";
+	$experimentCode = "soa";
 	$subjectEmail = "EXPERIMENTAL DATA: " . experimentCode . " //" + date;
-	$domain = "deusto.es";
+	$domain = "web.de";
 	//</configuration>
 
 	//program variables
